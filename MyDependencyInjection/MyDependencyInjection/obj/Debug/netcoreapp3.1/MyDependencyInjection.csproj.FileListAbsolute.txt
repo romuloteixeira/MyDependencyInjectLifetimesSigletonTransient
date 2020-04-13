@@ -1,0 +1,13 @@
+C:\Romulo\Source\General\MyDependencyInjection\MyDependencyInjection\MyDependencyInjection\bin\Debug\netcoreapp3.1\MyDependencyInjection.exe
+C:\Romulo\Source\General\MyDependencyInjection\MyDependencyInjection\MyDependencyInjection\bin\Debug\netcoreapp3.1\MyDependencyInjection.deps.json
+C:\Romulo\Source\General\MyDependencyInjection\MyDependencyInjection\MyDependencyInjection\bin\Debug\netcoreapp3.1\MyDependencyInjection.runtimeconfig.json
+C:\Romulo\Source\General\MyDependencyInjection\MyDependencyInjection\MyDependencyInjection\bin\Debug\netcoreapp3.1\MyDependencyInjection.runtimeconfig.dev.json
+C:\Romulo\Source\General\MyDependencyInjection\MyDependencyInjection\MyDependencyInjection\bin\Debug\netcoreapp3.1\MyDependencyInjection.dll
+C:\Romulo\Source\General\MyDependencyInjection\MyDependencyInjection\MyDependencyInjection\bin\Debug\netcoreapp3.1\MyDependencyInjection.pdb
+C:\Romulo\Source\General\MyDependencyInjection\MyDependencyInjection\MyDependencyInjection\obj\Debug\netcoreapp3.1\MyDependencyInjection.csprojAssemblyReference.cache
+C:\Romulo\Source\General\MyDependencyInjection\MyDependencyInjection\MyDependencyInjection\obj\Debug\netcoreapp3.1\MyDependencyInjection.csproj.CoreCompileInputs.cache
+C:\Romulo\Source\General\MyDependencyInjection\MyDependencyInjection\MyDependencyInjection\obj\Debug\netcoreapp3.1\MyDependencyInjection.AssemblyInfoInputs.cache
+C:\Romulo\Source\General\MyDependencyInjection\MyDependencyInjection\MyDependencyInjection\obj\Debug\netcoreapp3.1\MyDependencyInjection.AssemblyInfo.cs
+C:\Romulo\Source\General\MyDependencyInjection\MyDependencyInjection\MyDependencyInjection\obj\Debug\netcoreapp3.1\MyDependencyInjection.dll
+C:\Romulo\Source\General\MyDependencyInjection\MyDependencyInjection\MyDependencyInjection\obj\Debug\netcoreapp3.1\MyDependencyInjection.pdb
+C:\Romulo\Source\General\MyDependencyInjection\MyDependencyInjection\MyDependencyInjection\obj\Debug\netcoreapp3.1\MyDependencyInjection.genruntimeconfig.cache
